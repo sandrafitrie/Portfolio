@@ -6,8 +6,8 @@ Data science portfolio
 *This project using RNN and GRU model with tensorflow 
 *Using Python and Streamlit
 *The model are saved
-# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(34).png)
-# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(35).png)
+![](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(34).png)
+![](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(35).png)
 
 # [Project 2 Prediction genre music by age Web App](https://github.com/sandrafitrie/pred_music)
 
