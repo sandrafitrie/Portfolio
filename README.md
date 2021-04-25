@@ -17,5 +17,6 @@ Data science portfolio
 *The input model mark with 0 and 1 where's 0 is equal to woman and 1 is equal to man
 *Using Python and Django
 *The model are saved 
-![](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(34).png)
-![](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(35).png)
+![](/images/Screenshot%20(34).png)
+![](/images/Screenshot%20(35).png)
+
