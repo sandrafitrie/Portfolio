@@ -11,6 +11,7 @@ Data science portfolio
 
 *Create a web app to predict what's the music likely by age
 *This project using Decision Tree algorithm
+*The input model mark with 0 and 1 where's 0 is equal to woman and 1 is equal to man
 *Using Python and Django
 *The model are saved 
 
