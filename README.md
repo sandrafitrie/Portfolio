@@ -6,6 +6,8 @@ Data science portfolio
 *This project using RNN and GRU model with tensorflow 
 *Using Python and Streamlit
 *The model are saved
+# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(34).png)
+# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(35).png)
 
 # [Project 2 Prediction genre music by age Web App](https://github.com/sandrafitrie/pred_music)
 
@@ -14,4 +16,7 @@ Data science portfolio
 *The input model mark with 0 and 1 where's 0 is equal to woman and 1 is equal to man
 *Using Python and Django
 *The model are saved 
+# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(36).png)
+# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(37).png)
+# [](https://github.com/sandrafitrie/Portfolio/blob/main/Screenshot%20(38).png)
 
