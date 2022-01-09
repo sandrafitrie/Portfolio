@@ -1,5 +1,3 @@
-# Portfolio
-Sandra Fitrie's Portfolio
 # [Project 1 Stock Market Prediction Web App](https://github.com/sandrafitrie/MLWebApp)
 
 *Create a web app to predicting stock market prices in the future 30 days using Gated Recurrent Unit (GRU) model with tensorflow 
