@@ -8,7 +8,7 @@ Create a web app to predicting BUMN stock market prices in the future 30 days us
 #2 [**Aspect Anlysis Food Reviews App**](https://github.com/sandrafitrie/Absa)
 Create aspect analysis food products reviews predictions using naive bayes in web applications using streamlit
 
-#3 [**Twitter Dashboard DA/DE/DS](https://github.com/sandrafitrie/data_twitter)
+#3 [**Twitter Dashboard DA/DE/DS**](https://github.com/sandrafitrie/data_twitter)
 Crawling data from twitter and make a dashboard
 
 #4 [**EDA and Stock Market Prediction**](https://github.com/sandrafitrie/EDA)
