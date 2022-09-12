@@ -6,7 +6,7 @@ Creating exploratory data analysis (EDA) with python where the dataset download 
 and build a Sales Dashboard using Tableau https://public.tableau.com/app/profile/sandra.fitrie/viz/sales_dash_16620982016530/Dashboard1
 
 #3 [**EDA and Stock Market Prediction**](https://github.com/sandrafitrie/EDA)
-Create exploratory data analysis and stock price predictions 
+Creating exploratory data analysis and stock price predictions 
 
 #4 [**Aspect Anlysis Food Reviews App**](https://github.com/sandrafitrie/Absa)
 Creating aspect analysis food products reviews predictions using naive bayes in web applications using streamlit
