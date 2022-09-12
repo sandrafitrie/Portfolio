@@ -1,5 +1,5 @@
 # Hello there,
-# Im Sandra Fitrie from Medan, Sumatera Utara
+Im Sandra Fitrie from Medan, Sumatera Utara
 # I'm a Data Enthusisat and experience working in the analytics field
 
 #1 [**RFM Analysis Using Python**](https://github.com/sandrafitrie/sales/blob/main/rfm_sales.ipynb)
