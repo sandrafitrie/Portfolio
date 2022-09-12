@@ -1,4 +1,4 @@
-#[Hello there,]
+#[**Hello there,]
 #[Im Sandra Fitrie from Medan Sumatera Utara] 
 #[I'm a Data Enthusisat and experience working in the analytics field]
 
