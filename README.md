@@ -15,11 +15,11 @@ Creating sales dashboard using Tableau
 #5 [**EDA and Stock Market Prediction**](https://github.com/sandrafitrie/EDA)
 Creating exploratory data analysis and stock price predictions 
 
-#5 [**Crawling Komentar Tweet Seputar Profesi Data**](https://github.com/sandrafitrie/data_twitter)
+#6 [**Crawling Komentar Tweet Seputar Profesi Data**](https://github.com/sandrafitrie/data_twitter)
 Project berikut yaitu melakukan  crawling pada media sosial twitter (https://github.com/sandrafitrie/data_twitter/blob/main/Crawling_APITwitter.ipynb).
 Kemudian dilakukan text-cleaning (https://github.com/sandrafitrie/data_twitter/blob/main/data_cleaning_twitter.ipynb) 
 
-#6 [**Stock Market Prediction Using Gated Recurrent Unit Web App**](https://github.com/sandrafitrie/Forecasting_stockprice) 
+#7 [**Stock Market Prediction Using Gated Recurrent Unit Web App**](https://github.com/sandrafitrie/Forecasting_stockprice) 
 Creating a web app to predicting BUMN stock market prices in the future 30 days using Gated Recurrent Unit (GRU) model and streamlit
 ![](https://github.com/sandrafitrie/Portfolio/blob/main/images/Screenshot%20(36).png)
 ![](https://github.com/sandrafitrie/Portfolio/blob/main/images/Screenshot%20(37).png)
