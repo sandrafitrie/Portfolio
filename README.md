@@ -1,7 +1,7 @@
-#1 [**RFM Analysis Dashboard**](https://public.tableau.com/app/profile/sandra.fitrie/viz/rfm_16634363143370/Dashboard1#1)
+#1 [**Dashboard RFM Analysis Based on Customer Segmentation**](https://public.tableau.com/app/profile/sandra.fitrie/viz/rfm_16634363143370/Dashboard1#1)
 Creating RFM Dashboard Analysis Using Tableau
 
-#2 [**Analyzing Customer Segmentation Using Python With RFM Method**](https://github.com/sandrafitrie/sales/blob/main/rfm_sales.ipynb)
+#2 [**Analyzing Customer Segmentation with RFM Method Using Python**](https://github.com/sandrafitrie/sales/blob/main/rfm_sales.ipynb)
 Creating customer segmentation based on RFM analysis with python 
 where the dataset download from https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa?resource=download
 
