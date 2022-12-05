@@ -10,7 +10,7 @@ Creating exploratory data analysis (EDA) with python
 where the dataset download from https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa?resource=download
 
 #4 [**Niki'S Dashboard Using Spotify Datasets**](https://public.tableau.com/app/profile/sandra.fitrie/viz/nikis_dashboard/Dashboard1)
-Creating visualization about NIKI using Tableu where the data is download from Kaggle 
+Creating visualization about NIKI using Tableau where the data is download from Kaggle 
 
 #5  [**E-Commerce Sales Dashboard**](https://public.tableau.com/app/profile/sandra.fitrie/viz/sales_dash_16620982016530/Dashboard1)
 Creating sales dashboard using Tableau
