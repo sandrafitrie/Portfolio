@@ -5,9 +5,8 @@ Creating RFM Dashboard Analysis Using Tableau
 Creating customer segmentation based on RFM analysis with python 
 where the dataset download from https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa?resource=download
 
-#3 [**E-Commerce Sales EDA **](https://github.com/sandrafitrie/sales)
-Creating exploratory data analysis (EDA) with python
-where the dataset download from https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa?resource=download
+#3  [**EDA and House Price Predictions**](https://github.com/sandrafitrie/EDA/blob/master/house_predictions.ipynb)
+Build EDA and house price prediction using random forest regression algorithm  
 
 #4 [**Niki'S Dashboard Using Spotify Datasets**](https://public.tableau.com/app/profile/sandra.fitrie/viz/nikis_dashboard/Dashboard1)
 Creating visualization about NIKI using Tableau where the data is download from Kaggle 
