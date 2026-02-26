@@ -1,6 +1,4 @@
-#5 [**EDA and Stock Market Prediction**](https://public.tableau.com/app/profile/sandra.fitrie/viz/myproject_17718587893160/CustomerDashboard)
-Creating exploratory data analysis and stock price predictions 
-#1 [**Sales Dashboard**] 
+#1 [**Sales Dashboard**]
 (https://public.tableau.com/app/profile/sandra.fitrie/viz/myproject_17718587893160/CustomerDashboard)
 Creating Amazon Sales Dashboard Using Tableau 
 Data Source: https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset
